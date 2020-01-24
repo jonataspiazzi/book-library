@@ -1,0 +1,28 @@
+[
+  {
+    "_id": "5d13504bf8f1ba0cc0ca9859",
+    "name": "Pedro",
+    "code": "59F0",
+    "class": "7C",
+    "blocked": false,
+    "querytext": "pedro.59f0"
+  },
+  {
+    "_id": "5d02970d1c9d440000c9164d",
+    "name": "João Pedro",
+    "code": "13c35",
+    "class": "3c2",
+    "blocked": true,
+    "querytext": "joao.pedro.13c35",
+    "blockedMessage": "O João Pedro foi bloqueado por devolver o livro A Droga do Amor, no dia 31/07/2019, com um atraso de 15 dia(s). O João Pedro ficará bloqueado até o dia 15/08/2019.",
+    "blockedUntil": "2019-08-15T20:05:37.234Z"
+  },
+  {
+    "_id": "5d0297e91c9d440000c9164e",
+    "name": "Maria Antonieta",
+    "code": "24dg4",
+    "class": "3c",
+    "blocked": false,
+    "querytext": "maria.antonieta.24dg4"
+  }
+]

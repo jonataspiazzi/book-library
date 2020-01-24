@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "5d094d231c9d4400000d07fb",
+    "title": "Singularidades de uma Rapariga Loira",
+    "author": "Eça de Queirós",
+    "place": "Estante 1",
+    "code": "01",
+    "querytext": "singularidades.de.uma.rapariga.loira.eca.de.queiros"
+  },
+  {
+    "_id": "5d095391e967a50f30998028",
+    "title": "O Jogo dos Tronos",
+    "author": "George R. R. Martin",
+    "place": "Estante 01",
+    "code": "02",
+    "querytext": "o.jogo.dos.tronos.george.r.r.martin"
+  },
+  {
+    "_id": "5d0953fd1c9d440000aaeb77",
+    "title": "A Fúria dos Reis",
+    "author": "George R. R. Martin",
+    "place": "Estante 01",
+    "code": "03",
+    "querytext": "a.furia.dos.reis.george.r.r.martin"
+  },
+  {
+    "_id": "5d0954821c9d440000aaeb78",
+    "title": "A Tormenta de Espadas",
+    "author": "George R. R. Martin",
+    "place": "Estante 01",
+    "code": "04",
+    "querytext": "a.tormenta.de.espadas.george.r.r.martin"
+  },
+  {
+    "_id": "5d0954991c9d440000aaeb79",
+    "title": "O Festim dos Corvos",
+    "author": "George R. R. Martin",
+    "place": "Estante 01",
+    "code": "05",
+    "querytext": "o.festim.dos.corvos.george.r.r.martin"
+  },
+  {
+    "_id": "5d0954b11c9d440000aaeb7a",
+    "title": "A Dança dos Dragões",
+    "author": "George R. R. Martin",
+    "place": "Estante 01",
+    "code": "06",
+    "querytext": "a.danca.dos.dragoes.george.r.r.martin"
+  },
+  {
+    "_id": "5d0954cc1c9d440000aaeb7b",
+    "title": "Os Ventos de Inverno",
+    "author": "George R. R. Martin",
+    "place": "Estante 01",
+    "code": "07",
+    "querytext": "os.ventos.de.inverno.george.r.r.martin"
+  },
+  {
+    "_id": "5d1a9fc2c259671648e7ec81",
+    "title": "Os Homens Que Não Amavam As Mulheres",
+    "author": "Stieg Larsson",
+    "place": "Estante 3",
+    "code": "1234",
+    "querytext": "os.homens.que.nao.amavam.as.mulheres.stieg.larsson"
+  },
+  {
+    "_id": "5d1a9fe3c259671648e7ec82",
+    "title": "A Menina que Brincava com Fogo",
+    "author": "Stieg Larsson",
+    "place": "Estante 3",
+    "code": "12345",
+    "querytext": "a.menina.que.brincava.com.fogo.stieg.larsson"
+  },
+  {
+    "_id": "5d1aa001c259671648e7ec83",
+    "title": "A Rainha do Castelo de Ar",
+    "author": "Stieg Larsson",
+    "place": "Estante 3",
+    "code": "1235",
+    "querytext": "a.rainha.do.castelo.de.ar.stieg.larsson"
+  },
+  {
+    "_id": "5d1aa0a6c259671648e7ec84",
+    "title": "Boneco de neve",
+    "author": "Jo Nesbo",
+    "place": "Estante 3",
+    "code": "1236",
+    "querytext": "boneco.de.neve.jo.nesbo"
+  },
+  {
+    "_id": "5d1aa0c2c259671648e7ec85",
+    "title": "O Leopardo",
+    "author": "Jo Nesbo",
+    "place": "Estante 3",
+    "code": "1237",
+    "querytext": "o.leopardo.jo.nesbo"
+  },
+  {
+    "_id": "5d1aa0d7c259671648e7ec86",
+    "title": "Headhunters",
+    "author": "Jo Nesbo",
+    "place": "Estante 3",
+    "code": "1238",
+    "querytext": "headhunters.jo.nesbo"
+  },
+  {
+    "_id": "5d1aa1a0c259671648e7ec87",
+    "title": "A Droga da Obediência",
+    "author": "Pedro Bandeira",
+    "place": "Estante 3",
+    "code": "1241",
+    "querytext": "a.droga.da.obediencia.pedro.bandeira"
+  },
+  {
+    "_id": "5d1aa1d7c259671648e7ec88",
+    "title": "Anjo da Morte",
+    "author": "Pedro Bandeira",
+    "place": "Estante 3",
+    "code": "1242",
+    "querytext": "anjo.da.morte.pedro.bandeira"
+  },
+  {
+    "_id": "5d1aa1edc259671648e7ec89",
+    "title": "Pântano de Sangue",
+    "author": "Pedro Bandeira",
+    "place": "Estante 3",
+    "code": "1243",
+    "querytext": "pantano.de.sangue.pedro.bandeira"
+  },
+  {
+    "_id": "5d1aa21ac259671648e7ec8a",
+    "title": "A Droga da Amizade",
+    "author": "Pedro Bandeira",
+    "place": "Estante 3",
+    "code": "1244",
+    "querytext": "a.droga.da.amizade.pedro.bandeira"
+  },
+  {
+    "_id": "5d1aa243c259671648e7ec8b",
+    "title": "A Droga do Amor",
+    "author": "Pedro Bandeira",
+    "place": "Estante 3",
+    "code": "1245",
+    "querytext": "a.droga.do.amor.pedro.bandeira"
+  },
+  {
+    "_id": "5d1aa25cc259671648e7ec8c",
+    "title": "Droga de Americana",
+    "author": "Pedro Bandeira",
+    "place": "Estante 3",
+    "code": "1246",
+    "querytext": "droga.de.americana.pedro.bandeira"
+  }
+]
